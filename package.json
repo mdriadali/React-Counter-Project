@@ -2,7 +2,7 @@
   "name": "react-vite-first",
   "homepage": "https://mdriadali.github.io/React-Counter-Project/",
   "version": "0.0.0",
-  "private": true,
+ 
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "license": "ISC",
   "author": "",
