@@ -1,5 +1,6 @@
 {
   "name": "react-vite-first",
+  "homepage": "https://mdriadali.github.io/React-Counter-Project/",
   "version": "0.0.0",
   "private": true,
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
@@ -10,10 +11,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
